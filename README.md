@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔥 Save your spot for my online session at [Hyperledger Toronto this September](https://www.meetup.com/Hyperledger-Toronto/events/272860707/)!
+🔥 Watch the recording of my live session at [Hyperledger Toronto](https://www.youtube.com/watch?v=OynZIFrEQOk)!
