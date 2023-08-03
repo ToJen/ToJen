@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 <!-- 
 🔥 Watch the recording of my live session at [Hyperledger Toronto](https://www.youtube.com/watch?v=OynZIFrEQOk)!
  -->
+
+<!--
+ ![GithubStats](https://github-readme-stats.vercel.app/api?username=ToJen&show_icons=True&theme=cobalt) 
+-->
